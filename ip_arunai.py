@@ -1,7 +1,7 @@
 #coding: utf-8
 import ipaddress
 
-def ip_search(): 
+def main(): 
 
     # IPアドレス一覧ファイルをリストに読み込み
     with open('./iplist.txt') as f_ip:
@@ -43,4 +43,4 @@ def ip_search():
 
 
 if __name__ == '__main__':
-    ip_search()
+    main()
