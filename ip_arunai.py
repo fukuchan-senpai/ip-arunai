@@ -3,7 +3,7 @@ import ipaddress
 
 def ip_search(): 
 
-    # IPアドレス一覧ファイルをリストに読み込みaaa
+    # IPアドレス一覧ファイルをリストに読み込み
     with open('./iplist.txt') as f_ip:
         list_ip = f_ip.readlines()
 
