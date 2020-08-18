@@ -1,5 +1,5 @@
-# ip_arunai
+# ip-arunai
  
 ## Usage
 
-$ python ip_arunai.py
+$ python ip-arunai.py
